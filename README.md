@@ -1,8 +1,12 @@
 ---
-modified: 2025-01-12T19:10:09-07:00
+modified: 2025-11-07T22:07:04-07:00
 ---
 
 # DRV8311 Motor Driver
+
+> [!TIP]
+> This board is part of a larger modular control board ecosystem, [CACKLE](https://github.com/techy-robot/CACKLE)
+
 
 This is a single brushless motor driver based on the DRV8311 Texas Instruments chip. It is capable of 5 amps current in a voltage range of 3 to 24 volts. It has integrated current sense amplifiers and protection logic. It supports up to 200khz PWM frequency.
 
